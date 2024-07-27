@@ -1,1 +1,8 @@
-/target
+# Build artifacts
+target/
+
+# Rust backup files
+*.rs.bk
+
+# Cargo lock file (if you don't want to include it in version control)
+Cargo.lock
